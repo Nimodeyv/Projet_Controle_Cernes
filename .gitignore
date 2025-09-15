@@ -1,0 +1,19 @@
+credentials.yml
+
+# All content from data except..
+#data/photos/*
+
+
+# Except directory and content of
+# !data/photos/Attente_traitement/
+
+
+
+
+*/__pycache__/*
+/__pycache__/*
+log/*.log
+log/*.png
+log/*.html
+*.html
+acqu/
